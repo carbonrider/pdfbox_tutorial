@@ -1,3 +1,7 @@
+---
+layout: home
+title: Apache PDFBox Tutorial
+---
 
 A list of tutorials to know Apache PDFBox.
 
@@ -11,4 +15,4 @@ A list of tutorials to know Apache PDFBox.
 
 ## Issues
 
-- In case if you are experiencing any issues with the tutorial or wish to see additional tutorial, Please create an issue [here](https://github.com/carbonrider/pdfbox_tutorial/issues) .
+- In case if you are experiencing any issues with the tutorial or wish to see additional tutorial, Please create an issue [here](https://github.com/carbonrider/pdfbox_tutorial/issues).
