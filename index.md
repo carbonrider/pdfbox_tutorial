@@ -6,9 +6,8 @@ title: Apache PDFBox Tutorial
   Home
 </div>
 
-A list of tutorials to know Apache PDFBox.
 
->Tutorial assumes that you have already created a Java project.
+This site features set of Apache PDFBox tutorials, which starts with basic operations like creation of PDF and advance to other useful API.
 
 ### Introduction
 
