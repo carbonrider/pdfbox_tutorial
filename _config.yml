@@ -1,3 +1,3 @@
 name: Apache PDFBox tutorial site
-markdown: redcarpet
+markdown: kramdown
 pygments: true
