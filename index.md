@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Apache PDFBox Tutorial
+home: true
 ---
 <div class="demo-crumbs mdl-color-text--grey-500">
   Home
@@ -11,8 +12,8 @@ This site features set of Apache PDFBox tutorials, which starts with basic opera
 
 ### Introduction
 
-- <a href="introduction.html">Hello PDF World!</a>
-- Custom Page Size
+- [Hello PDF World!](./introduction.html)
+- [Page Size](./page_size.html)
 
 
 ### Issues
