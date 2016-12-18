@@ -13,8 +13,8 @@ This site features set of Apache PDFBox tutorials, which starts with basic opera
 ### Introduction
 
 - [Hello PDF World!](./introduction.html)
-- [Page Size](./page_size.html)
-- Adding Images
+- [Page Size](./pdf_page_size.html)
+- [Adding Images](./pdf_add_image.html)
 - Embedding Fonts
 - Merging
 
