@@ -15,7 +15,7 @@ This site features set of Apache PDFBox tutorials, which starts with basic opera
 - [Hello PDF World!](./introduction.html)
 - [Page Size](./pdf_page_size.html)
 - [Adding Images](./pdf_add_image.html)
-- Embedding Fonts
+- [Embedding Fonts](./pdf_embed_font.html)
 - Merging
 
 ### AcroForms
