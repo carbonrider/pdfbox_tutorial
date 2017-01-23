@@ -25,8 +25,8 @@ This site features set of Apache PDFBox tutorials, which starts with basic opera
 
 ### Security
 
-- Password Protected
-- PDF Permissions
+- [Password Protection](./pdf_password_protection.html)
+- [Permissions](./pdf_permissions.html)
 
 
 ### Issues
